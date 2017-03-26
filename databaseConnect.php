@@ -2,7 +2,7 @@
 
 <?php
 //Include the database connections example below
-require_once ($_SERVER['DOCUMENT_ROOT'] . "/controller/example.php");
+require_once ($_SERVER['DOCUMENT_ROOT'] . "constants.php");
 class Database{
 	
 		public $dbc;	
