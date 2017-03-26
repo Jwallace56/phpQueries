@@ -1,4 +1,4 @@
-	
+<?php	
 /*example user of the database function in action, reading data from the database*/
 
 //remember to call the database function file!
@@ -17,3 +17,6 @@
 
 	}
   }
+
+
+?>
