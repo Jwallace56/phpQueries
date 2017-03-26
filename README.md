@@ -11,3 +11,5 @@ This function has been created to save time as it doesn't require the user to wr
 
 These files can be manipulated to create any database reads.
 
+I have also included a write to database function, I will provide examples later on how to use this!
+
